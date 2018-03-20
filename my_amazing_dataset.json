@@ -1,0 +1,1179 @@
+{
+    "Plucked string instrument": [
+        {
+            "username": "Project16", 
+            "description": "Sampling of my electro acoustic guitar Sherwood SH887 three octaves and five velocity levels", 
+            "id": 251061, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            2.2700636751029185e-05, 
+                            0.001711957535684319, 
+                            0.0007927737425260071, 
+                            0.000254171391178992, 
+                            0.006100177309395524, 
+                            0.0015243362360557221, 
+                            9.10506063502405e-05, 
+                            0.0002753346987139365, 
+                            0.00028572067473777075, 
+                            6.1022639763011013e-05, 
+                            2.950965138841627e-05, 
+                            0.0003009435364397083, 
+                            3.517795896074635e-05, 
+                            1.2788845879104896e-05, 
+                            2.3536444498013656e-06, 
+                            9.310291607785229e-06, 
+                            2.5769150659912625e-06, 
+                            3.6405136298576987e-06, 
+                            3.7634385007196758e-06, 
+                            1.0226544787110962e-06, 
+                            5.334270239745366e-07, 
+                            1.2979102104514135e-07, 
+                            2.6976088395246454e-07, 
+                            2.5325189990974496e-07, 
+                            1.7215169664537786e-07, 
+                            1.78623484558357e-07, 
+                            1.9811727455839095e-07
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 76.17458303643578, 
+                        "max": 11199.656531099023, 
+                        "dvar2": 215098.5493721251, 
+                        "dmean2": 52.40816801638663, 
+                        "dmean": 41.780045383841674, 
+                        "var": 1736057.7070154373, 
+                        "dvar": 190651.62645877228, 
+                        "mean": 314.02154488572756
+                    }
+                }
+            }, 
+            "tags": [
+                "guitar", 
+                "acoustic", 
+                "multisample"
+            ]
+        }, 
+        {
+            "username": "jess_pfohl", 
+            "description": "A contact microphone recording a ukulele playing jingle bells ", 
+            "id": 219329, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            7.632005362772049e-06, 
+                            1.4534600961021755e-05, 
+                            1.8227227085028825e-06, 
+                            1.9989256109008305e-06, 
+                            1.675317632475984e-05, 
+                            0.00017987940945579016, 
+                            4.981199344030426e-06, 
+                            3.6070881277911736e-05, 
+                            0.00023298467527977103, 
+                            3.690216481974851e-06, 
+                            7.457436121341927e-06, 
+                            7.329308338859284e-07, 
+                            6.575426471445805e-06, 
+                            4.897462656015603e-07, 
+                            5.071128209824328e-06, 
+                            9.886121826113382e-06, 
+                            9.736850827196519e-07, 
+                            1.3409241969053086e-06, 
+                            4.2252967090073535e-07, 
+                            2.8240667612942406e-08, 
+                            4.010729503567945e-09, 
+                            6.831106370796913e-09, 
+                            8.028597736680493e-10, 
+                            6.995908837285772e-10, 
+                            1.1106561073895344e-09, 
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 28.90524744839952, 
+                        "max": 1026.6089728853317, 
+                        "dvar2": 48410.791756930026, 
+                        "dmean2": 150.18821653143013, 
+                        "dmean": 89.76305147328608, 
+                        "var": 33159.72043808365, 
+                        "dvar": 17341.22487458186, 
+                        "mean": 396.13915986544237
+                    }
+                }
+            }, 
+            "tags": [
+                "jingle", 
+                "playing", 
+                "Ukulele", 
+                "bells"
+            ]
+        }, 
+        {
+            "username": "quartertone", 
+            "description": "A 1-shot sample taken of a Yamaha Eterna classical acoustic guitar, recorded with a CAD E100 microphone. \r\n\r\nNotes for samples in this pack:\r\n\r\nIncluded are both finger-plucked note performances, and fingered fret noise effects. The note performances are from various fret positions across the playing range of the instrument. Each position has 5 velocity layers per note.\r\n\r\nNaming conventions for note samples is as follows:\r\n\r\nGtrClass-[fret position]f,[string number]s([MIDI note number])~v[velocity number 1-5]\r\n\r\nFret positions with the designation [N#] indicate \"negative fret\", which are samples of the low E string detuned down in relation to their open standard-tuned (unfretted) note.\r\n\r\nThe note performance samples contain a crossfade-looped region at the end of each file. Samplers with .WAV file header support should automatically detect the loop range. Just enable looping, set the sample player's sustain parameter to 0% and use the decay and/or release parameter to fade the \r\n\r\nsample out as needed.\r\n\r\nLoop regions are as follows:\r\n\r\n[200,000-249,999]:\r\n\r\nGtrClass-N5f,6s(35)\r\nGtrClass-N2f,6s(38)\r\nGtrClass-00f,5s(45)\r\nGtrClass-00f,6s(40)\r\nGtrClass-02f,5s(47)\r\nGtrClass-04f,2s(63)\r\nGtrClass-04f,4s(54)\r\nGtrClass-04f,5s(49)\r\nGtrClass-04f,6s(44)\r\n\r\n\r\n[150,000-199,999]:\r\n\r\nGtrClass-02f,4s(52)\r\nGtrClass-02f,6s(42)\r\n\r\n\r\n[100,000-149,999]:\r\n\r\nGtrClass-00f,1s(64)\r\nGtrClass-00f,2s(59)\r\nGtrClass-00f,3s(55)\r\nGtrClass-02f,1s(66)\r\nGtrClass-02f,2s(61)\r\nGtrClass-02f,3s(57)\r\nGtrClass-04f,2s(63)\r\nGtrClass-04f,3s(59)\r\nGtrClass-05f,1s(69)\r\nGtrClass-07f,1s(71)\r\n\r\n\r\n[75,000-99,999]:\r\n\r\nGtrClass-11f,1s(75)\r\n\r\n\r\n[50,000-74,999]:\r\n\r\nGtrClass-04f,1s(68)\r\nGtrClass-09f,1s(73)\r\nGtrClass-12f,1s(76)\r\nGtrClass-14f,1s(78)\r\nGtrClass-15f,1s(79)\r\nGtrClass-16f,1s(80)\r\nGtrClass-17f,1s(81)\r\nGtrClass-18f,1s(82)", 
+            "id": 183000, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            3.278709503846873e-05, 
+                            4.17301708337838e-05, 
+                            0.0028725750320069, 
+                            0.002787310377906547, 
+                            0.001960249707608185, 
+                            0.00030839269289320006, 
+                            0.0011256050028618124, 
+                            0.00345933661242558, 
+                            0.00019440957627361147, 
+                            0.0019530965105902845, 
+                            0.0033477755103349313, 
+                            0.00015535330117814907, 
+                            3.689467084578223e-05, 
+                            6.58258253074701e-05, 
+                            0.00013103022371299065, 
+                            0.00017920881097144065, 
+                            0.00012722101455490603, 
+                            2.151313193924751e-05, 
+                            1.6069237006690256e-05, 
+                            1.9625552435382066e-05, 
+                            2.507508085630679e-05, 
+                            5.856990602321273e-06, 
+                            7.182383535234368e-06, 
+                            2.4849468190039063e-06, 
+                            2.892148503642348e-06, 
+                            4.942942977864879e-07, 
+                            7.132221884102074e-08
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 127.82262926508153, 
+                        "max": 830.4420345975635, 
+                        "dvar2": 1224.2126669704774, 
+                        "dmean2": 7.83322009842979, 
+                        "dmean": 8.868254370662585, 
+                        "var": 25520.720887372776, 
+                        "dvar": 973.4469845456933, 
+                        "mean": 266.19071189264656
+                    }
+                }
+            }, 
+            "tags": [
+                "guitar", 
+                "velocity", 
+                "1-shot", 
+                "multisample", 
+                "acoustic"
+            ]
+        }, 
+        {
+            "username": "DKifer", 
+            "description": "a ukulele quickly strummed playing a C major chord, recorded on condenser mic", 
+            "id": 48316, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            2.527720176150103e-06, 
+                            1.4590411277383331e-06, 
+                            1.3774141256971707e-05, 
+                            6.868648641712427e-05, 
+                            0.021069494911882602, 
+                            0.022408038699809212, 
+                            0.0010921970963442384, 
+                            0.004822509531144499, 
+                            0.0008310845998217585, 
+                            0.0011043550989742203, 
+                            0.00025217227392885025, 
+                            9.492055061801369e-06, 
+                            2.871579220595599e-05, 
+                            0.00034561070546156904, 
+                            0.00019625548948686125, 
+                            0.0003334305702875229, 
+                            0.00020152551254120946, 
+                            4.616581708070168e-05, 
+                            6.0531661158681474e-05, 
+                            5.965541511001825e-05, 
+                            2.420575523640844e-05, 
+                            9.571746246760634e-06, 
+                            2.4712826693276223e-05, 
+                            3.9010586858472924e-05, 
+                            2.338153237276448e-05, 
+                            1.2870130033954723e-05, 
+                            4.505752872813691e-06
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 267.1305797520659, 
+                        "max": 3862.1133594164257, 
+                        "dvar2": 398680.5229727241, 
+                        "dmean2": 432.91301980131743, 
+                        "dmean": 302.3649722146104, 
+                        "var": 1583748.5238137343, 
+                        "dvar": 142823.42888318616, 
+                        "mean": 1276.3784058026763
+                    }
+                }
+            }, 
+            "tags": [
+                "hit", 
+                "strings", 
+                "strummed", 
+                "ukelele"
+            ]
+        }, 
+        {
+            "username": "NoiseCollector", 
+            "description": "Yamaha acoustic through USB microphone to laptop. Chords strummed with a metal pick. File name indicates chord.", 
+            "id": 58035, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            6.594052633435051e-07, 
+                            9.975695404514768e-05, 
+                            0.0003343354712570735, 
+                            0.0015803157536109142, 
+                            0.0023056437867988843, 
+                            0.0011784629612059145, 
+                            0.000603834470699933, 
+                            0.00018314496076841613, 
+                            0.00020920641601615883, 
+                            2.708672524893711e-05, 
+                            0.0001606745173758457, 
+                            2.6959572421662002e-05, 
+                            3.663124656097687e-05, 
+                            1.6256341844519717e-05, 
+                            1.1601384016081381e-05, 
+                            1.432735230051908e-05, 
+                            1.612826199889748e-05, 
+                            1.2002931370948345e-05, 
+                            3.6302256856218545e-05, 
+                            1.1158486818338061e-05, 
+                            9.330962190050824e-06, 
+                            4.6642794299801325e-06, 
+                            4.614035119270279e-06, 
+                            8.302744608090755e-06, 
+                            6.009760197084771e-06, 
+                            2.157340533329812e-06, 
+                            8.309604544334797e-07
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 265.4320885976685, 
+                        "max": 2288.21123828459, 
+                        "dvar2": 192056.8861581841, 
+                        "dmean2": 275.35120673134, 
+                        "dmean": 152.5326061410727, 
+                        "var": 111540.6536618912, 
+                        "dvar": 58420.06161148759, 
+                        "mean": 551.353936217003
+                    }
+                }
+            }, 
+            "tags": [
+                "acoustic", 
+                "chord", 
+                "guitar", 
+                "strummed"
+            ]
+        }, 
+        {
+            "username": "NoiseCollector", 
+            "description": "Yamaha acoustic through USB microphone to laptop. Chords strummed with a metal pick. File name indicates chord.", 
+            "id": 58039, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            2.808577973500114e-07, 
+                            3.738493905991827e-05, 
+                            0.00013476254708101053, 
+                            0.003214551867368357, 
+                            0.0010238211861611204, 
+                            0.0001717090816764982, 
+                            0.0003137316582482844, 
+                            9.98839652070035e-05, 
+                            6.421225773491589e-05, 
+                            0.0003541870449738514, 
+                            9.55636719219144e-06, 
+                            7.398329329955646e-05, 
+                            6.460512399378541e-05, 
+                            1.1826679277109377e-05, 
+                            5.696064641629817e-06, 
+                            1.2548870200715062e-05, 
+                            3.8269050065090144e-05, 
+                            1.422606901172909e-05, 
+                            8.69866573076311e-06, 
+                            3.0303092126493655e-06, 
+                            2.2169307330971817e-06, 
+                            1.7228050267149814e-06, 
+                            1.7662915020697083e-06, 
+                            1.7335862098794142e-06, 
+                            1.3350086410822205e-06, 
+                            6.960156467273911e-07, 
+                            3.2604442898752336e-07
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 175.59722206996707, 
+                        "max": 1559.8626849333161, 
+                        "dvar2": 47048.165124629, 
+                        "dmean2": 111.42361967053412, 
+                        "dmean": 63.771831901660164, 
+                        "var": 48472.80573697181, 
+                        "dvar": 13783.315873683592, 
+                        "mean": 374.2935355108779
+                    }
+                }
+            }, 
+            "tags": [
+                "acoustic", 
+                "chord", 
+                "guitar", 
+                "strummed"
+            ]
+        }, 
+        {
+            "username": "hubertmichel", 
+            "description": "electric guitar certainly not the best sample, by can save your life.", 
+            "id": 40422, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            7.082500976652462e-07, 
+                            9.631266023540473e-06, 
+                            0.0001419593975931873, 
+                            0.0002244568657857428, 
+                            0.0038328037376170816, 
+                            0.0033020045683203893, 
+                            0.0009978526214321313, 
+                            0.0009875880267741365, 
+                            0.00021450721459623828, 
+                            0.000893910532796204, 
+                            0.0004024034485843108, 
+                            0.00020322877045680714, 
+                            4.9213255758419236e-05, 
+                            0.000362580875589442, 
+                            0.0004891706415262978, 
+                            0.001315586738507195, 
+                            0.0006146087202898486, 
+                            0.0005971176692549327, 
+                            0.001550111107353499, 
+                            0.000404664805114884, 
+                            0.0004750087433903178, 
+                            5.634979645270374e-06, 
+                            7.033051617332111e-07, 
+                            1.378194040945297e-07, 
+                            8.885248859116276e-08, 
+                            8.007259652616004e-08, 
+                            5.434073816458723e-08
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 212.80698205372974, 
+                        "max": 2704.105034421784, 
+                        "dvar2": 196191.03934554957, 
+                        "dmean2": 308.97210781822673, 
+                        "dmean": 213.59066203432758, 
+                        "var": 361819.4757287087, 
+                        "dvar": 105140.21985418248, 
+                        "mean": 943.5553957320296
+                    }
+                }
+            }, 
+            "tags": [
+                "electric", 
+                "guitar"
+            ]
+        }, 
+        {
+            "username": "christoffer2", 
+            "description": "A few chords played with a thumbpick on my guitar.", 
+            "id": 170309, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            0.00011901043882492224, 
+                            0.00025952594398366384, 
+                            0.00021363471818217623, 
+                            0.0028433126990743585, 
+                            0.002754986904845207, 
+                            0.0007212291338185338, 
+                            2.2385876528006983e-05, 
+                            2.939280782906245e-05, 
+                            8.957938685715656e-06, 
+                            8.401024170817406e-06, 
+                            1.2422544312222267e-05, 
+                            3.273490718922216e-06, 
+                            3.030015565804618e-06, 
+                            2.254680920882655e-06, 
+                            5.097520698648693e-06, 
+                            4.386507948257882e-06, 
+                            2.739885296488944e-06, 
+                            9.888435750622044e-07, 
+                            2.7751829458683142e-06, 
+                            4.453467704780372e-06, 
+                            3.546487563529955e-06, 
+                            3.8144897974529964e-06, 
+                            9.329230570022732e-07, 
+                            9.570403289406937e-07, 
+                            1.2494881208132263e-06, 
+                            5.605081756831203e-07, 
+                            1.2905925314089468e-07
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 14.88697154721933, 
+                        "max": 11213.626261630865, 
+                        "dvar2": 498411.6411009225, 
+                        "dmean2": 121.109946080946, 
+                        "dmean": 74.70233575800002, 
+                        "var": 530029.2340473422, 
+                        "dvar": 231068.09548494706, 
+                        "mean": 343.8117115746856
+                    }
+                }
+            }, 
+            "tags": [
+                "Guitar", 
+                "acoustic", 
+                "music"
+            ]
+        }, 
+        {
+            "username": "SeryLis", 
+            "description": "Recorded classical guitar Cuenca mod 10. Made in Spain. The sound is recorded on condenser microphone octave MK-220 and FW 1814.", 
+            "id": 181425, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            6.10560429021764e-08, 
+                            9.384106051082067e-06, 
+                            0.00031339767018974906, 
+                            0.0001467255953987268, 
+                            0.001582720643361956, 
+                            0.0005824161855151745, 
+                            0.0009922841191086736, 
+                            9.579012048977638e-05, 
+                            0.000567109135353616, 
+                            6.803941379118027e-06, 
+                            5.305970687252292e-05, 
+                            2.6292058001000865e-05, 
+                            8.536473924996799e-06, 
+                            3.978033346065504e-06, 
+                            4.876954899187932e-06, 
+                            1.0285347528237222e-05, 
+                            9.402637765668279e-06, 
+                            7.443990290397063e-07, 
+                            1.5580151349442389e-06, 
+                            1.1142227040015459e-06, 
+                            2.3663304071050874e-07, 
+                            1.9946830602726988e-07, 
+                            1.059774901241825e-07, 
+                            1.7279894828095856e-07, 
+                            1.255041401350174e-07, 
+                            3.541672538657078e-08, 
+                            2.264197423524468e-09
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 167.12666151833184, 
+                        "max": 589.7614746127663, 
+                        "dvar2": 1225.430385140541, 
+                        "dmean2": 29.747306352081267, 
+                        "dmean": 18.161372588794933, 
+                        "var": 10067.290798618964, 
+                        "dvar": 512.1250893219614, 
+                        "mean": 285.43641809599126
+                    }
+                }
+            }, 
+            "tags": [
+                "a", 
+                "guitar", 
+                "microphone", 
+                "from", 
+                "chords", 
+                "game", 
+                "Guitar", 
+                "live", 
+                "Spanish", 
+                "acoustic", 
+                "strings"
+            ]
+        }, 
+        {
+            "username": "Timbre", 
+            "description": "remix of freesound #136466 \"yellow submarine\" on guitar, speeded up sounds like ukuleles.", 
+            "id": 136477, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            6.10560429021764e-08, 
+                            1.1959353506051911e-07, 
+                            1.4382637457078891e-07, 
+                            7.77697502113393e-07, 
+                            0.00736387224227036, 
+                            0.026180128659929136, 
+                            0.06359573955875983, 
+                            0.024939222310217817, 
+                            0.016804083298482556, 
+                            0.05848745098480851, 
+                            0.006011912799720515, 
+                            0.011886568131712365, 
+                            0.0010784564768309612, 
+                            0.0011615164333342969, 
+                            0.0015203232947164469, 
+                            0.0009295441904098753, 
+                            0.000690238488881519, 
+                            0.0004903285988160177, 
+                            0.0005958081813554948, 
+                            0.0006522678536336791, 
+                            0.0004708044961882027, 
+                            0.00023564584536701032, 
+                            0.00021448960855383504, 
+                            0.00010809938417197229, 
+                            6.972921173412975e-05, 
+                            0.0001445448954483484, 
+                            0.00012759092111173904
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 374.41138002688496, 
+                        "max": 13464.947712095547, 
+                        "dvar2": 301564.2516617087, 
+                        "dmean2": 189.68784989084156, 
+                        "dmean": 129.2430162582878, 
+                        "var": 824834.0726152003, 
+                        "dvar": 203768.24069995352, 
+                        "mean": 831.3351516984445
+                    }
+                }
+            }, 
+            "tags": [
+                "Spongebob", 
+                "childrens", 
+                "ukulele", 
+                "136466", 
+                "yellow", 
+                "guitar", 
+                "submarine", 
+                "child", 
+                "uke", 
+                "yellow-submarine", 
+                "milton", 
+                "music", 
+                "kid", 
+                "children", 
+                "beatles"
+            ]
+        }
+    ], 
+    "Brass instrument": [
+        {
+            "username": "MTG", 
+            "description": "Recorded in the context of the good-sounds.org project from the Music Technology Group, Universitat Pompeu Fabra, Barcelona.\nPart of the Good-sounds dataset of monophonic instrumental sounds.\n\ninstrument::trumpet\nnote::Csharp\nmicrophone::neumann U87\ntuning reference::442\ngood-sounds-id::7489\nmode::major\n\n\nIntentionally played as an example of bad-articulation", 
+            "id": 357625, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            1.221120858043528e-08, 
+                            0.0, 
+                            0.0, 
+                            0.0, 
+                            6.247688355308536e-09, 
+                            8.665127173264697e-05, 
+                            0.0001831670588483303, 
+                            0.00012258150578328038, 
+                            0.0008801986804271458, 
+                            0.0001879479875885384, 
+                            0.00041939281731029067, 
+                            0.00038715035381041153, 
+                            0.0012739045703456763, 
+                            9.583317963309022e-05, 
+                            0.00017778546025423898, 
+                            0.00011538493377022207, 
+                            5.976622980982496e-05, 
+                            2.4325753135456995e-05, 
+                            1.1833856057327276e-05, 
+                            1.267406931356597e-06, 
+                            2.486652292212126e-07, 
+                            1.181781402147866e-07, 
+                            1.4451475926024886e-08, 
+                            2.7983635349143086e-09, 
+                            1.1106561073895344e-09, 
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 41.027419495763475, 
+                        "max": 10961.727855510617, 
+                        "dvar2": 300752.03364227636, 
+                        "dmean2": 166.59773807568325, 
+                        "dmean": 116.32123653779229, 
+                        "var": 341036.20745738246, 
+                        "dvar": 259905.52940506523, 
+                        "mean": 1047.6834186111046
+                    }
+                }
+            }, 
+            "tags": [
+                "good-sounds", 
+                "trumpet", 
+                "scale", 
+                "Csharpmajor", 
+                "neumann-U87"
+            ]
+        }, 
+        {
+            "username": "Samulis", 
+            "description": "One-shot from Versilian Studios Chamber Orchestra 2: Community Edition sampling project.<br>CO 2: CE is a 3,000-sample public-domain orchestral sample library designed to give composers and producers the tools they need to create realistic and compelling orchestral mockups. To learn more or make a commercial contribution to help keep the project alive, please visit <a href =\"http://vis.versilstudios.net/vsco-community.html\" target=\"_blank\">http://vis.versilstudios.net/vsco-community.html</a>.<br><br>Original filename: Sum_SHTrumpet_stac_C5_v2_rr1.wav<br>Instrument family: Brass<br>Instrument: Trumpet<br>Articulation: staccato<br>Note: C6<br>Midi note: 84<br>Midi velocity (center): 2141<br>Location: Durham, CT<br>Room type: Large Auditorium<br>Microphone: 2x Rode NT1-A spaced pair, mixed close mics<br>Performer: Sam Hebert<br>", 
+            "id": 374076, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            0.0, 
+                            0.0, 
+                            0.0, 
+                            3.847982432331892e-08, 
+                            3.436228595419695e-08, 
+                            4.7213682630985105e-09, 
+                            3.1074231715723184e-09, 
+                            3.438760787255039e-09, 
+                            9.783681395495473e-09, 
+                            1.173093341227246e-08, 
+                            0.0003887103057193042, 
+                            3.450782549049814e-05, 
+                            2.2142910896682216e-07, 
+                            6.468346904171552e-08, 
+                            7.704721558941275e-06, 
+                            0.00073099469752651, 
+                            1.811699516700117e-07, 
+                            0.00020605367501672604, 
+                            8.51604013792272e-05, 
+                            3.819336350198847e-05, 
+                            4.675608187021921e-05, 
+                            3.577655339577467e-05, 
+                            8.396307513020458e-06, 
+                            3.6408108771002616e-05, 
+                            1.2782541139946152e-05, 
+                            3.2398604440584755e-06, 
+                            4.40386398875509e-07
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 541.8235685557944, 
+                        "max": 2801.6607959224325, 
+                        "dvar2": 70984.0393814533, 
+                        "dmean2": 386.20035851974205, 
+                        "dmean": 267.44121542005183, 
+                        "var": 269293.9091774527, 
+                        "dvar": 33563.33483841221, 
+                        "mean": 1733.4364039800764
+                    }
+                }
+            }, 
+            "tags": [
+                "midi-velocity-62", 
+                "c6", 
+                "trumpet", 
+                "single-note", 
+                "multisample", 
+                "staccato", 
+                "brass", 
+                "midi-note-84", 
+                "vsco-2"
+            ]
+        }, 
+        {
+            "username": "Samulis", 
+            "description": "One-shot from Versilian Studios Chamber Orchestra 2: Community Edition sampling project.<br>CO 2: CE is a 3,000-sample public-domain orchestral sample library designed to give composers and producers the tools they need to create realistic and compelling orchestral mockups. To learn more or make a commercial contribution to help keep the project alive, please visit <a href =\"http://vis.versilstudios.net/vsco-community.html\" target=\"_blank\">http://vis.versilstudios.net/vsco-community.html</a>.<br><br>Original filename: Sum_SHTrumpet_susvib_G3_v1_rr1.wav<br>Instrument family: Brass<br>Instrument: Trumpet<br>Articulation: vibrato sustain<br>Note: F#4<br>Midi note: 67<br>Midi velocity (center): 31<br>Location: Durham, CT<br>Room type: Large Auditorium<br>Microphone: 2x Rode NT1-A spaced pair, mixed close mics<br>Performer: Sam Hebert<br>", 
+            "id": 374173, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            0.0, 
+                            0.0, 
+                            5.5317836373380345e-09, 
+                            3.037880867630441e-08, 
+                            2.1866909243579876e-08, 
+                            3.531819529210841e-05, 
+                            1.4772689757654801e-05, 
+                            8.596901968137598e-09, 
+                            1.8412888386322483e-06, 
+                            2.8729055926655253e-05, 
+                            1.4660752532126987e-08, 
+                            6.8433578406179765e-06, 
+                            2.0361297376259508e-08, 
+                            3.0643793458512725e-06, 
+                            4.147391100971569e-08, 
+                            2.4873875521734515e-09, 
+                            2.0681501332193116e-08, 
+                            6.035667803024646e-09, 
+                            1.0084240355626141e-09, 
+                            8.557778064528002e-10, 
+                            0.0, 
+                            0.0, 
+                            0.0, 
+                            0.0, 
+                            0.0, 
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 246.67444220795184, 
+                        "max": 771.6134307974185, 
+                        "dvar2": 824.3952011329707, 
+                        "dmean2": 20.60425351182521, 
+                        "dmean": 19.30436184677294, 
+                        "var": 7138.001289213705, 
+                        "dvar": 431.706763119077, 
+                        "mean": 588.7641372946825
+                    }
+                }
+            }, 
+            "tags": [
+                "brass", 
+                "trumpet", 
+                "single-note", 
+                "vibrato-sustain", 
+                "multisample", 
+                "midi-velocity-31", 
+                "vsco-2", 
+                "fsharp4", 
+                "midi-note-67"
+            ]
+        }, 
+        {
+            "username": "TaranP", 
+            "description": "A sustained B3, with a crescendo from soft to loud on the horn. Recorded with a Zoom h4n placed about a metre behind the bell.", 
+            "id": 361394, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            3.541250488326231e-07, 
+                            7.97290233736794e-09, 
+                            2.7658918186690173e-09, 
+                            4.050507823507255e-09, 
+                            0.0004455226566170517, 
+                            1.1567352244591351e-07, 
+                            0.000746990348791098, 
+                            0.00014588254887772052, 
+                            0.0006974492956406858, 
+                            2.0413499984984407e-05, 
+                            0.00037632685674716764, 
+                            0.0005620671676292972, 
+                            0.00016173487538397334, 
+                            0.00034207159565542944, 
+                            0.00014221309826342854, 
+                            0.0005686628110965662, 
+                            9.741566209500259e-05, 
+                            0.00016990103082124226, 
+                            0.0001242317906371007, 
+                            3.568079986224305e-05, 
+                            1.452786494429899e-05, 
+                            6.2900827462297975e-06, 
+                            7.733948199744318e-06, 
+                            6.2620380002544946e-06, 
+                            1.1672995688664007e-06, 
+                            6.15943050201231e-08, 
+                            2.264197423524468e-09
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 206.09748630653286, 
+                        "max": 3703.099243579656, 
+                        "dvar2": 248920.26563958134, 
+                        "dmean2": 108.060134026836, 
+                        "dmean": 73.75245239411124, 
+                        "var": 185592.92926804002, 
+                        "dvar": 84965.3324613918, 
+                        "mean": 978.637426960433
+                    }
+                }
+            }, 
+            "tags": [
+                "brass", 
+                "b3", 
+                "horn", 
+                "french-horn", 
+                "tone", 
+                "crescendo"
+            ]
+        }, 
+        {
+            "username": "TaranP", 
+            "description": "An iconic horn solo, taken from Siegfried's Call from Wagner's \"G\u00f6tterd\u00e4mmerung.\" Recorded with a Zoom h4n placed about a metre behind the bell.", 
+            "id": 361685, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            5.495043861195876e-07, 
+                            2.3918707012103823e-08, 
+                            1.9361242730683123e-08, 
+                            1.8227285205782648e-08, 
+                            0.0008716837270210023, 
+                            0.0022597341960318147, 
+                            0.005295912948000928, 
+                            0.0007885766237333255, 
+                            0.0027572566582413256, 
+                            0.017873987519895662, 
+                            0.0013313918066175587, 
+                            0.0011696387933150642, 
+                            0.000322078819640931, 
+                            0.0012993210989418302, 
+                            0.00039304259910575613, 
+                            0.00030755925235736683, 
+                            0.0006245813402322322, 
+                            0.00010157928318027094, 
+                            0.0001712031737895717, 
+                            2.630489821474617e-05, 
+                            8.307223484265106e-06, 
+                            4.4538813537595875e-07, 
+                            5.339017494892528e-07, 
+                            4.0646230344630335e-07, 
+                            6.886067865815114e-08, 
+                            1.0779003378521544e-08, 
+                            3.396296135286702e-09
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 7.25598710998786, 
+                        "max": 11404.612639024755, 
+                        "dvar2": 1029502.7788257817, 
+                        "dmean2": 388.9882270171826, 
+                        "dmean": 237.6023917891716, 
+                        "var": 903950.1840696413, 
+                        "dvar": 469500.24637981993, 
+                        "mean": 833.3877186599339
+                    }
+                }
+            }, 
+            "tags": [
+                "siegfried", 
+                "fanfare", 
+                "hunting-horn", 
+                "F-major", 
+                "mmerung", 
+                "horn-call", 
+                "call", 
+                "G", 
+                "horn", 
+                "tterd", 
+                "wagner", 
+                "opera", 
+                "F", 
+                "hunting", 
+                "siegfried-call", 
+                "french-horn"
+            ]
+        }, 
+        {
+            "username": "TaranP", 
+            "description": "A sustained G3 played at a medium volume on the horn. May be useful to build background chords. Recorded with a Zoom h4n placed about a metre behind the bell.", 
+            "id": 362187, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            3.7854746599349365e-07, 
+                            7.97290233736794e-09, 
+                            5.5317836373380345e-09, 
+                            1.2042159759287069e-05, 
+                            7.473797195037836e-05, 
+                            2.7535019710390516e-05, 
+                            1.3184796516981347e-05, 
+                            0.00043186708974978584, 
+                            1.7430606774214736e-05, 
+                            0.0001752769036556538, 
+                            0.00010239558260188558, 
+                            1.0712271422769927e-05, 
+                            4.563094000128357e-05, 
+                            3.909769184987551e-05, 
+                            3.853303368357222e-06, 
+                            2.017271304812669e-06, 
+                            1.3385067662195386e-06, 
+                            4.0438974280265123e-07, 
+                            1.653815418322687e-07, 
+                            2.9952223225848005e-08, 
+                            3.0080471276759587e-09, 
+                            2.7324425483187654e-09, 
+                            4.014298868340246e-09, 
+                            4.197545302371463e-09, 
+                            2.221312214779069e-09, 
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 54.09919947554279, 
+                        "max": 1654.068404009001, 
+                        "dvar2": 147366.22341079797, 
+                        "dmean2": 159.59297323110846, 
+                        "dmean": 94.26738026830226, 
+                        "var": 36248.121773208695, 
+                        "dvar": 51083.93591964422, 
+                        "mean": 679.3794276772862
+                    }
+                }
+            }, 
+            "tags": [
+                "g3", 
+                "note", 
+                "horn", 
+                "g", 
+                "tone", 
+                "french-horn"
+            ]
+        }, 
+        {
+            "username": "TaranP", 
+            "description": "A sustained C3 played at a medium volume on the horn. May be useful to build background chords. Recorded with a Zoom h4n placed about a metre behind the bell.", 
+            "id": 362195, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            4.640259260565406e-07, 
+                            1.5148514440999087e-07, 
+                            7.80866578246637e-05, 
+                            2.3790657701369862e-05, 
+                            0.0009008354408868718, 
+                            1.908377051944418e-05, 
+                            1.0285570697904374e-05, 
+                            4.7623398142695036e-05, 
+                            0.00010135306904849582, 
+                            3.4428613717389344e-05, 
+                            2.860801510769046e-05, 
+                            3.2561353439850265e-06, 
+                            8.107614099009334e-06, 
+                            1.670681600391738e-05, 
+                            4.544221022223622e-06, 
+                            4.837968788977363e-06, 
+                            6.27890380445383e-07, 
+                            2.615456047977346e-07, 
+                            1.361372448009529e-07, 
+                            1.3692444903244804e-08, 
+                            2.0053647517839726e-09, 
+                            2.049331911239074e-09, 
+                            3.211439094672197e-09, 
+                            4.197545302371463e-09, 
+                            1.1106561073895344e-09, 
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 7.08971680721476, 
+                        "max": 3808.584769383394, 
+                        "dvar2": 311360.38843381265, 
+                        "dmean2": 148.3155727293155, 
+                        "dmean": 85.55538109338991, 
+                        "var": 74643.02925651355, 
+                        "dvar": 110653.9314411467, 
+                        "mean": 385.0449390739466
+                    }
+                }
+            }, 
+            "tags": [
+                "c3", 
+                "note", 
+                "horn", 
+                "tone", 
+                "c", 
+                "french-horn"
+            ]
+        }, 
+        {
+            "username": "MTG", 
+            "description": "Recorded in the context of the good-sounds.org project from the Music Technology Group, Universitat Pompeu Fabra, Barcelona.\nPart of the Good-sounds dataset of monophonic instrumental sounds.\n\ninstrument::trumpet\nnote::A\noctave::4\nmidi note::57\nmicrophone::neumann U87\ntuning reference::440\ngood-sounds-id::1259\n\n\nIntentionally played as an example of bad-pitch-errors", 
+            "id": 247214, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            1.221120858043528e-08, 
+                            0.0, 
+                            2.7658918186690173e-09, 
+                            2.0252539117536275e-09, 
+                            9.371532532962804e-09, 
+                            2.1741900851568644e-06, 
+                            0.002072477239741128, 
+                            1.667798981818694e-07, 
+                            1.9567362790990948e-07, 
+                            0.006334915199428549, 
+                            8.368846237089155e-06, 
+                            0.00016152647454042326, 
+                            0.014214233151596537, 
+                            0.0005123161760493304, 
+                            0.00403862294158193, 
+                            0.002313136104593492, 
+                            0.0013946644876769224, 
+                            0.0008580959212791831, 
+                            0.0003388345096451806, 
+                            0.0001756543852190824, 
+                            6.085880948714e-05, 
+                            1.978220093919078e-05, 
+                            4.4277716517792914e-06, 
+                            1.269057863083639e-06, 
+                            2.8988124402866853e-07, 
+                            2.617757963355232e-08, 
+                            1.132098711762234e-09
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 302.8430178648665, 
+                        "max": 11442.136927143896, 
+                        "dvar2": 623054.8375522794, 
+                        "dmean2": 183.4837937805218, 
+                        "dmean": 145.1430117749899, 
+                        "var": 462548.68482246075, 
+                        "dvar": 522739.58606044686, 
+                        "mean": 1397.3613280158681
+                    }
+                }
+            }, 
+            "tags": [
+                "good-sounds", 
+                "multisample", 
+                "trumpet", 
+                "single-note", 
+                "A4", 
+                "neumann-U87"
+            ]
+        }, 
+        {
+            "username": "MTG", 
+            "description": "Recorded in the context of the good-sounds.org project from the Music Technology Group, Universitat Pompeu Fabra, Barcelona.\nPart of the Good-sounds dataset of monophonic instrumental sounds.\n\ninstrument::trumpet\nnote::Dsharp\noctave::4\nmidi note::51\nmicrophone::neumann U87\ntuning reference::440\ngood-sounds-id::1265\n\n\nIntentionally played as an example of bad-pitch-errors", 
+            "id": 247220, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            2.442241716087056e-08, 
+                            7.97290233736794e-09, 
+                            2.7658918186690173e-09, 
+                            2.0252539117536275e-09, 
+                            4.330272799064346e-05, 
+                            0.0007991340708437909, 
+                            5.282619391672941e-08, 
+                            0.0003620155418782743, 
+                            0.001336276729095842, 
+                            0.00024770871408591493, 
+                            0.0007432512842037311, 
+                            0.0033125857035114976, 
+                            0.0010758158710774774, 
+                            0.0029298781574126553, 
+                            0.0011449203040342323, 
+                            0.0005486057615696156, 
+                            0.00037564141773683673, 
+                            0.00029180240749429717, 
+                            9.898186121064839e-05, 
+                            3.3521672456562635e-05, 
+                            6.014088890600134e-06, 
+                            2.5514182294926473e-06, 
+                            5.001816389951947e-07, 
+                            1.8749035683925868e-07, 
+                            6.775002255076161e-08, 
+                            1.0779003378521544e-08, 
+                            1.132098711762234e-09
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 221.27098515358446, 
+                        "max": 10673.203589863942, 
+                        "dvar2": 313376.52381738106, 
+                        "dmean2": 165.71428232439632, 
+                        "dmean": 126.85008836921949, 
+                        "var": 408137.33617477823, 
+                        "dvar": 233349.42375073247, 
+                        "mean": 1330.414158356804
+                    }
+                }
+            }, 
+            "tags": [
+                "good-sounds", 
+                "multisample", 
+                "trumpet", 
+                "single-note", 
+                "Dsharp4", 
+                "neumann-U87"
+            ]
+        }, 
+        {
+            "username": "Vann Westfold", 
+            "description": "Midi recording playing steinberg sampler (halion player), french horn,classical style, part two", 
+            "id": 38294, 
+            "analysis": {
+                "lowlevel": {
+                    "barkbands": {
+                        "mean": [
+                            2.0026382071913857e-06, 
+                            1.7779572212330508e-06, 
+                            1.57655833664134e-07, 
+                            6.535494373228956e-06, 
+                            0.0007716832272059338, 
+                            0.0013516333063598417, 
+                            0.005828487990530364, 
+                            0.0033111225837341002, 
+                            0.00014583946835381372, 
+                            0.004078195318566569, 
+                            0.00033156024889031786, 
+                            0.0009113133825768868, 
+                            0.00127844259449841, 
+                            0.0004729632155091295, 
+                            0.0018080259302130715, 
+                            0.000936194221030611, 
+                            0.0011250323094686412, 
+                            0.0004572501214215411, 
+                            0.0002959714460135917, 
+                            0.00016703755848590916, 
+                            0.00012384029756404332, 
+                            2.1206486617501936e-05, 
+                            4.5570320753398476e-06, 
+                            6.9819170196112e-07, 
+                            7.219264698031974e-08, 
+                            4.619572876509233e-09, 
+                            1.132098711762234e-09
+                        ]
+                    }, 
+                    "spectral_centroid": {
+                        "min": 230.70515768720014, 
+                        "max": 1652.3710412366868, 
+                        "dvar2": 7227.157339326707, 
+                        "dmean2": 79.63604113461294, 
+                        "dmean": 73.30695009687341, 
+                        "var": 112774.38227978, 
+                        "dvar": 5611.465600252765, 
+                        "mean": 841.7673473713755
+                    }
+                }
+            }, 
+            "tags": [
+                "coaching-days", 
+                "french-horns", 
+                "hornblowing", 
+                "horns", 
+                "hunting-horns", 
+                "intro", 
+                "mail-coach", 
+                "orchestral", 
+                "symphonic"
+            ]
+        }
+    ]
+}
